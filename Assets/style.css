@@ -1,0 +1,124 @@
+/*
+clear fix
+*/
+backgrouds {background: 
+    #4aaaa5
+}
+header {
+    background: #ffffff;
+    margin-bottom: 40px;
+    margin-top: 0px;
+    font-family: georgia, times, Times New Roman, serif;
+    border-color: #cccccc;
+    
+
+}
+
+p{
+    /* float:left; */
+}
+.container {
+    background: #cccccc;
+    width: 960px;
+    height: 400px;
+    margin: auto;
+    overflow-block: auto;
+}
+
+body {
+    margin-block: auto;
+    background: #dddddd
+}
+
+img.portfolio-img {
+    height: 150px;
+    width: 150px;
+}
+
+ head {
+     text-align: center;
+     margin-top: 20px;
+     background: aqua;
+     color: white;
+     padding: 30;
+
+ }
+  #details {
+    width: auto;
+    display: inline-block;
+    position: absolute;
+    right: 40px;
+  }
+  .active {
+    display: inline-block;
+}
+  #nametag{
+      width: 200px;
+      display: block;
+      font-family: georgia, times, Times New Roman, serif;
+      background: #4aaaa5;
+      text-align: center;
+      font-size: 25px;
+      padding: 20px;
+    display: inline-block;
+      height: 20px;
+      -moz-float-edge: 30px;
+      margin-left: 70px;
+  }
+
+.main-container {
+    background: #ffffff;
+    width: 960px;
+    margin: auto;
+}
+
+
+ .imgsource { 
+     width: 960px;
+     height: 600px;
+     margin-bottom: 20px;
+     font-display: inline block;
+     background: #ffffff;
+     margin: auto;
+     position: absolute
+    
+    }
+
+    footer {text-align: center;
+        background: #ffffff;  
+        padding: 20px;
+        position: fixed;
+        bottom: 0px;
+        width: 100%;
+    }
+
+.main {
+    width: 960px;
+    height: 500px;
+    background: #ffffff;
+    margin: auto;
+} 
+h1 {
+    background: #ffffff;
+    text-decoration: aqua;
+    margin-bottom: 0px;
+}
+.clearfix {
+    display: block;
+    content:"";
+    clear: both;
+}
+.textbox {
+    background-color: #4aaaa5;
+    color: #ffffff;
+    /* position: absolute; */
+    width: 150px;
+    text-align: center;
+    top: 150px;
+
+}
+
+.gallery {
+    float: left;
+    margin:20px;
+}
