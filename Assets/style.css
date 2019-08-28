@@ -72,8 +72,12 @@ img.portfolio-img {
     width: 960px;
     margin: auto;
     padding: 20px;
+    height: 400px;
 }
-
+.about_me {
+    float: left;
+    margin-right: 20px;
+}
 
  .imgsource { 
     height: 700px;
@@ -87,7 +91,7 @@ img.portfolio-img {
     footer {text-align: center;
         background: #ffffff;  
         padding: 20px;
-        position: fixed;
+        /* position: fixed; */
         bottom: 0px;
         width: 100%;
         margin-top: 20px;
@@ -163,7 +167,4 @@ Button {
 #nameinput {
     padding:10px;
     width:850px;
-}
-label {
-
 }
